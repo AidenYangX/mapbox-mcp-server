@@ -24,6 +24,8 @@ MCP Server for the Mapbox API.
 
 Get a Mapbox API key by following the instructions [here](https://console.mapbox.com/account/access-tokens/).
 
+Make the API key available as `MAPBOX_ACCESS_TOKEN` environment variable.
+
 ## Deployment
 
 ### Structure
